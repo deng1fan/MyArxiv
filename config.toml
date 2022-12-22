@@ -9,11 +9,6 @@ title = "Computation and Language"
 
 [[sources]]
 limit = 150
-category = "cs.CV"
-title = "Computer Vision and Pattern Recognition"
-
-[[sources]]
-limit = 150
 category = "cs.IR"
 title = "Information Retrieval"
 
@@ -22,10 +17,6 @@ limit = 150
 category = "cs.LG"
 title = "Machine Learning"
 
-[[sources]]
-limit = 150
-category = "cs.MM"
-title = "Multimedia"
 
 [scripts]
 highlight_title = "scripts/highlight_title.rhai"
