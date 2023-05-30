@@ -1,7 +1,7 @@
 let titles_type = ["Dataset", "Survey", "Review", "Overview"];
 let titles_model = ["BERT", "GPT", "Transformer"];
 let titles_method = ["Pre-train", "Pretrain", "Prompt", "Self-Supervised"];
-let titles_domain = ["Dialogue", "Dialog", "Conversation", "Generate", "Generation", "Low-resource", "Loss", "Few-shot", "Controllable", "Faith", "Knowledge", "Consist", "Contrast learning", "Persona", "Reasoning", "ChatGPT"];
+let titles_domain = ["Dialogue", "Dialog", "Conversation", "Generate", "Generation", "Low-resource", "Loss", "Few-shot", "Controllable", "Faith", "Hallucination", "Knowledge", "Consist", "Contrast learning", "Persona", "Reasoning", "ChatGPT"];
 let titles =  titles_model + titles_method + titles_type + titles_domain;
 let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio"];
 
