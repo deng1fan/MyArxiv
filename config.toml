@@ -1,6 +1,6 @@
 site_title = "MyArxiv"
-limit_days = 7
-cache_url = "https://Mute-ZEN.github.io/MyArxiv/cache.json"
+limit_days = 14
+cache_url = "https://deng1fan.github.io/MyArxiv/cache.json"
 
 [[sources]]
 limit = 150
@@ -21,6 +21,11 @@ title = "Machine Learning"
 limit = 150
 category = "cs.MM"
 title = "Multi Media"
+
+[[sources]]
+limit = 150
+category = "cs.AI"
+title = "AI"
 
 
 [scripts]
