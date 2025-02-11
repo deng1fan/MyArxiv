@@ -1,5 +1,5 @@
 let titles_type = ["Data", "Dataset", "Survey", "Review", "Overview"];
-let titles_domain = ["Synthesis", "Psychological", "Counseling", "Low-resource", "Loss", "Few-shot", "Controllable", "Faith", "Hallucination", "Knowledge", "Consist", "Contrast learning", "Persona", "Reasoning", "DeepSeek"];
+let titles_domain = ["Synthesis", "Synthe", "Psychological", "Counsel", "Low-resource", "Loss", "Few-shot", "Controllable", "Faith", "Hallucination", "Knowledge", "Consist", "Contrast learning", "Persona", "Reasoning", "DeepSeek"];
 let titles = titles_type + titles_domain;
 let authors_array = ["Chenhao Zhang", "Renhao Li", "Yirong Chen", "Xiaofen Xing"];
 
